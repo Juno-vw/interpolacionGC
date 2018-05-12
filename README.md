@@ -11,5 +11,7 @@ El presente proyecto corresponde a la asignatura de Gráficos por Computador del
 # Autores:
 
 Daniel Gomez Jaramillo, daniel.gomez@ucuenca.edu.ec
+
 Brian Mora Aguirre, brian.moraa.@ucuenca.edu.ec
+
 Ariana Roman Alvarado, ariana.roman0903.@ucuenca.edu.ec
