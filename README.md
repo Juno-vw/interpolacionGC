@@ -6,7 +6,7 @@ Dentro de este estudio, se realiza una selección del 60% del conjunto de datos 
 
 # Sobre el proyecto:
 
-El presente proyecto corresponde a la asignatura de Gráficos por Computador del periodo Marzo - Agosto 2018 de la carrera de Ingeniería de Sistemas de la Facultad de Ingeniería de la Universidad de Cuenca. 
+El presente proyecto corresponde a la asignatura de Gráficos por Computador del periodo Marzo - Agosto 2018, de la carrera de Ingeniería de Sistemas de la Facultad de Ingeniería de la Universidad de Cuenca. 
 
 # Autores:
 
